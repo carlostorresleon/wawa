@@ -3,7 +3,7 @@ Quitar caja
 
 Tras asegurarnos de no tener estatica se quita la caja, guardando los tornillos
 
-[Se quita la caja]![Image](/img/IMG_7343.png.png)
+[Se quita la caja]![Image](/img/IMG_7343.png)
 
 Protector
 
