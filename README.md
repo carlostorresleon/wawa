@@ -1,214 +1,219 @@
 
 Quitar caja
 
-![IMG_7343](https://github.com/user-attachments/assets/bc65fd83-7010-4b4f-8c30-5df313638eef)
+Tras asegurarnos de no tener estatica se quita la caja, guardando los tornillos
 
-[Se quita la caja](fotos/caja/IMG_7343)
+[Se quita la caja]![Image](/img/IMG_7343.png.png)
 
 Protector
 
-![IMG_7344](https://github.com/user-attachments/assets/b062942c-8c84-423e-89b9-933b3ceedf21)
+Se remueve el protector y se quitan los tornillos, guardandolos
 
-[Se quita el protector](fotos/protector/IMG_7344)
+[Se quita el protector]![Image](/img/IMG_7344.png)
 
 Wifi
 
-![IMG_7345](https://github.com/user-attachments/assets/f1d1adee-f840-4c4c-b1f0-7392991a8696)
+Se quita la tarjeta wifi y se guardan los tornillos que fijan esta
 
-[Se quita el wifi](fotos/wifi/IMG_7345)
+[Se quita el wifi]![Image](/img/IMG_7345.png)
 
 ATX
 
-![IMG_7346](https://github.com/user-attachments/assets/383cfd7a-a73f-4cc4-9b7a-ac7dbbe34935)
-![IMG_7347](https://github.com/user-attachments/assets/e6563eb6-e063-4a64-8ef3-41820f193fc3)
+Se quita el cable ATX  que es el cargado de transofrmar la corriente alterna de 
+la linea eléctrica comercian el corriente directa
 
-[Se quita ATX](fotos/atx/IMG_7346)
-[Se quita ATX](fotos/atx/IMG_7347)
+[Se quita ATX]![Image](/img/IMG_7346.png)
+[Se quita ATX]![Image](/img/IMG_7347.png)
 
 POW CPU
 
-![IMG_7350](https://github.com/user-attachments/assets/f514399d-4089-46b1-a583-c5c37743f8e2)
+Se quita el cable que da poder al precesor, suele ser de 4 u 8,
+en nuestro caso es de cuatro.
 
-[Se quita supply de la CPU](fotos/pow-cpu/img_7350)
+[Se quita supply de la CPU]![Image](/img/IMG_7350.png)
 
 AUDIO
 
-![IMG_7351](https://github.com/user-attachments/assets/1ceecc72-4e3e-4eaf-b636-e7485b94b10b)
+Permite conectar fuentes externas
 
-[Se quita audio](fotos/audio/img_7351
+[Se quita audio]![Image](/img/IMG_7351.png)
 
 USB1
 
-![IMG_7352](https://github.com/user-attachments/assets/21abccfe-7563-488f-ae83-7f97d324306c)
+Sirve para añadir mas conexiones USB a nuestro ordenador de las que hay soldadas a la parte trasera de la placa
 
-[Se quita USB1](fotos/usb1/img_7352)
+[Se quita USB1]![Image](/img/IMG_7352.png)
 
 Front Panel
 
-![IMG_7353](https://github.com/user-attachments/assets/7e136a81-0ce8-4080-9a95-41c3585e124e)
+Permite encender el ordenador, encender las luces frontales del case, hacer funcionar el boton de reset y 
+en algunas placas hacer funcionar el parlante interno del ordenador
 
-[Se quita Front Panel](fotos/frontPanel/img_7353)
+[Se quita Front Panel]![Image](/img/IMG_7353.png)
 
 Sata
 
-![IMG_7354](https://github.com/user-attachments/assets/8a4b92c1-88dc-4cc4-bad7-58acf38592bf)
+Permite transferir datos desde la placa base a unidades de almacenamiento ![Image](/img/ros.png) y de reproduccion o grabacion
 
-[Se quita SATA](fotos/sata/img_7354)
+[Se quita SATA]![Image](/img/IMG_7354.png)
 
 Sata del PoS
 
-![IMG_7358](https://github.com/user-attachments/assets/10be36ad-f1b2-4d14-9db5-9f69ebd5f28b)
+Da poder al disco
 
-[Se quita PS](fotos/hardDriveSupply/img_7358)
+[Se quita PS]![Image](/img/IMG_7358.png)
 
 Placa Base
 
-![IMG_7359](https://github.com/user-attachments/assets/8f4b2f36-7892-49b9-b20a-789e2fbf6f9a)
-![IMG_7361](https://github.com/user-attachments/assets/36f798e3-fddf-42c2-a33f-ba8cfca26d10)
+La placa base en si, permite conectar todas las partes esenciales del ordenador, lo que permite una comunicacion 
+clara y eficaz dentro de estos componentes.
 
-[Se quita la Placa Base](fotos/placaBase/img_7359)
-[Se quita la Placa Base](fotos/placaBase/img_7361)
+[Se quita la Placa Base]![Image](/img/IMG_7359.png)
+[Se quita la Placa Base]![Image](/img/IMG_7361.png)
 
 Rams
 
-![IMG_7359](https://github.com/user-attachments/assets/2b5f18cb-b0fc-4b96-bd3a-d85c9f99ce29)
-![IMG_7374](https://github.com/user-attachments/assets/4990b1aa-c90b-4175-bfed-8136ef5463b3)
+Tras asegurarnos de que no tenemos energia estatica, con cuidado y cogiendola por los bordes procedemos a quitarlas,
+la ram es una memoria volatil donde el ordenador almacena datos que necesita recuperar
 
-[Se quita la ram](fotos/placaBase/img_7359)
-[Se quita la ram](fotos/ram/img_7374)
+[Se quita la ram]![Image](/img/IMG_7359.png)
+[Se quita la ram]![Image](/img/IMG_7374.png)
 
 Hard drive
 
-![IMG_7365](https://github.com/user-attachments/assets/37413417-056c-4d82-b8b0-3203d6cbcc97)
+Se quita el disco duro, en nuestro caso es un SSD
 
-[Se quita el disco](fotos/discoDuro/img_7365)
+[Se quita el disco]![Image](/img/IMG_7365.png)
 
 Disipador
 
-![IMG_7366](https://github.com/user-attachments/assets/f780ee0e-6fea-4243-84eb-dd27ad6c9cbb)
+Reduce la temperatura y transmite aire frio a la CPU, en nuestro caso no tuvimos que quitar
+tornillos pero ya que el disipador era de INTEL se debio de mover cada "palanca" hacia la derecha
+para aflojar los pines que se encuentran abajo y permitir quitar el disipador
 
-[Se quita el disipador](fotos/disipador/img_7366)
+[Se quita el disipador]![Image](/img/IMG_7366.png)
 
 CPU FAN
 
-![IMG_7376](https://github.com/user-attachments/assets/5a36d5cb-0eec-4371-a11e-99643bb7c6a5)
-
-[Se quita el supply](fotos/disipador/img_7376)
+Para que el ventilador funcione necesita ser suministrado, en este caso quitamos el cable para poder removerlo
+con facilidad
+[Se quita el supply]![Image](/img/IMG_7376.png)
 
 SE QUITA PASTA
 
-![IMG_7367](https://github.com/user-attachments/assets/e5e31c6e-a790-4096-ac4e-10a610592bd2)
-![IMG_7368](https://github.com/user-attachments/assets/d830d3dd-733b-4e19-a203-8b28474067ff)
+Se quita la pasta termica que permite una mayor distribucion de la temperatura y
+es un magnifico conductor de calor
 
-[Se quita la pasta](fotos/cpu/img_7367)
-[Con la pasta ya quitada](fotos/cpu/img_7368)
+[Se quita la pasta]![Image](/img/IMG_7367.png)
+[Con la pasta ya quitada]![Image](/img/IMG_7368.png)
 
 Se levanta palanca
 
-![IMG_7371](https://github.com/user-attachments/assets/4613acce-2cdf-4a15-8440-8b19bed14a74)
+Se levanta la palanca que fija el procesador
 
-[Se levanta la palanca](fotos/cpu/img_7371)
+[Se levanta la palanca]![Image](/img/IMG_7371.png)
 
 Se quita procesador
 
-![IMG_7372](https://github.com/user-attachments/assets/230ae94f-4dff-4782-8b59-e90f0ef6bb7c)
+Con cuidado se quita el procesador
 
-[Se quita el procesador](fotos/cpu/img_7372)
+[Se quita el procesador]![Image](/img/IMG_7372.png)
 
 Poner pasta
 
-![IMG_7375](https://github.com/user-attachments/assets/b586a149-e627-4eba-9f19-13d4f9b75210)
+Se vuelve a poner la pasta, en nuestro caso hicimos una pequeña cruz, asegurandonos que no
+poniamos mas de lo que se debe
 
-[Se pone la pasta](fotos/cpu/img_7375)
+[Se pone la pasta]![Image](/img/IMG_7375.png)
 
 Situar pines disipador / Colocar disipador
 
-![IMG_7376](https://github.com/user-attachments/assets/08fe2423-de79-4d1a-83a1-9490e6706747)
+Nuestro disipador y procesador es de intel por lo que tiene unos pines con los que se fija a la placa
 
-[Se situan los pines y se pone el disipador](fotos/disipador/img_7376)
+[Se situan los pines y se pone el disipador]![Image](/img/IMG_7376.png)
 
 CPU FAN
 
-![IMG_7378](https://github.com/user-attachments/assets/a13c4c48-6d6b-4528-a066-95dc318ac9cc)
+Se establece el supply al ventilador del disipador
 
-[Se vuelve a poner el supply](fotos/cpu/img_7378)
+[Se vuelve a poner el supply]![Image](/img/IMG_7378.png)
 
 Rams
 
-![IMG_7377](https://github.com/user-attachments/assets/25c250a7-ae9c-4cb8-9ccd-d35bc853fa3e)
+Con cuidado se pone cada RAM en su respectivo socket, teniendo en cuenta las posiciones de cada una, siendo la primera
+en 1, la segunda en la posicion 2 (izq a derecha) y la ultima en la tercera.
 
-[Se coloca la ram](fotos/ram/img_7377)
 
-Colocar placa base (Atornillandola luego)
+[Se coloca la ram]![Image](/img/IMG_7377.png)
 
-![IMG_7379](https://github.com/user-attachments/assets/68c47ba8-ffa9-4fa4-b8ab-b57819c6f292)
+Colocar placa base 
 
-[Se coloca la placa base](fotos/placaBase/img_7379)
+Se coloca la placa base con cuidado y se atornilla a la caja
+
+[Se coloca la placa base]![Image](/img/IMG_7379.png)
 
 Front Panel
 
-![IMG_7380](https://github.com/user-attachments/assets/c2518247-225b-44d2-ae6b-925927a311b9)
-![IMG_7381](https://github.com/user-attachments/assets/ae03a28d-a3b9-4aee-9d04-07fc0b4542d8)
+Esta vez en vez de quitarlos se ponen de nuevo los pines que permiten dar funcion
+al front panel
 
-[Se colocan el F.P.](fotos/frontPanel/img_7380)
-[Se colocan el F.P.](fotos/frontPanel/img_7381)
+[Se colocan el F.P.]![Image](/img/IMG_7380.png)
+[Se colocan el F.P.]![Image](/img/IMG_7381.png)
 
 Audio
 
-![IMG_7382](https://github.com/user-attachments/assets/f9df0d51-5208-4308-9f1a-0a9527e0c41a)
+Se vuelve a colocar el cable de audio
 
-[Se coloca el cable de audio](fotos/audio/img_7382)
+[Se coloca el cable de audio]![Image](/img/IMG_7382.png)
 
 USB-1
 
-![IMG_7384](https://github.com/user-attachments/assets/6757af02-1be0-4579-baec-76e7633436a8)
+Se vuelve a colocar el cable USB-1, en nuestro caso nuestro puerto usb es 2.0
 
-[Se coloca el cable de la usb1](fotos/usb1/img_7384)
+[Se coloca el cable de la usb1]![Image](/img/IMG_7384.png)
 
 POW CPU
 
-![IMG_7385](https://github.com/user-attachments/assets/c64fd12d-3936-41c5-9fb3-c8ebe47dcb85)
+Se da poder a la CPU 
 
-[Se vuelve a color al cable que da supply a la CPU](fotos/pow-cpu/img_7385)
+[Se vuelve a color al cable que da supply a la CPU]![Image](/img/IMG_7385.png)
 
 ATX
 
-![IMG_7386](https://github.com/user-attachments/assets/57658af9-033f-4b63-a238-e87354d6201e)
+Se coloca el cable ATX en su antigua posicion
 
-[Se vuelve a colocar el cable ATX](fotos/atx/img_7386)
+[Se vuelve a colocar el cable ATX]![Image](/img/IMG_7386.png)
 
 Sata
-![IMG_7387](https://github.com/user-attachments/assets/c3d5b915-a263-4f6c-89ee-85f7952d8902)
 
-[Se coloca el SATA](fotos/sata/img_7387)
+Se coloca el cable sata en su antigua posicion
+
+[Se coloca el SATA]![Image](/img/IMG_7387.png)
 
 
 Wifi
 
-![IMG_7392](https://github.com/user-attachments/assets/e10bc720-adc3-49f3-bd00-878d0cb71df1)
+Se vuelve a poner la tarjeta de wifi en su respectivo socket y luego se atornilla
 
-[Se coloca el wifi](fotos/wifi/img_7392)
+[Se coloca el wifi]![Image](/img/IMG_7392.png)
 
 Soporte caja
 
-![IMG_7393](https://github.com/user-attachments/assets/17c335f4-3df1-4384-8fbd-6fdadadd63d6)
+Se vuelve a poner el soporte y su respectivo tornillo
 
-[Se pone el soperte](fotos/caja/img_7393)
+[Se pone el soperte]![Image](/img/IMG_7393.png)
 
 Caja
 
-![IMG_7394](https://github.com/user-attachments/assets/173dab1e-3773-4ce4-a599-2b31dfb5a02f)
+Se cierra la caja
 
-[Se vuelve a cerrar la caja](fotos/caja/img_7394)
+[Se vuelve a cerrar la caja]![Image](/img/IMG_7394.png)
 
 UEFI
 
-![IMG_7395](https://github.com/user-attachments/assets/f2764756-829e-4567-90c0-986bbe623bc8)
-![IMG_7396](https://github.com/user-attachments/assets/a44a9061-f53e-4e71-9f1e-22ffcf430562)
-![IMG_7397](https://github.com/user-attachments/assets/b5ba1123-b6dd-43fb-ba37-b7ab5156383d)
-![IMG_7398](https://github.com/user-attachments/assets/7cebd4f3-c880-4f45-aea2-df5fde1d48e6)
 
-[Foto del UEFI-1](fotos/uefi/img_7395)
-[Foto del UEFI-2](fotos/uefi/img_7396)
-[Foto del UEFI-3](fotos/uefi/img_7397)
-[Foto del UEFI-4](fotos/uefi/img_7398)
+
+[Foto del UEFI-1]![Image](/img/IMG_7395.png)
+[Foto del UEFI-2]![Image](/img/IMG_7396.png)
+[Foto del UEFI-3]![Image](/img/IMG_7397.png)
+[Foto del UEFI-4]![Image](/img/IMG_7398.png)
